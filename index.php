@@ -1,3 +1,5 @@
 <?php
-    echo "Olá mundo, iniciando no mundo do Github";
+ 
+    $helloWorld = 'Olá mundo, através de variável';
+    echo $helloWorld;
 ?>
