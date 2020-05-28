@@ -1,5 +1,5 @@
 <?php
  
-    $helloWorld = 'Olá mundo, através de variável';
+    $helloWorld = "Repositório dedicado a projetos abertos";
     echo $helloWorld;
 ?>
