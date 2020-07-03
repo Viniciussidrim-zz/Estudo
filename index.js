@@ -15,3 +15,10 @@ aluno = { //Variavel Objeto
     nome: "Jacks Douglas",
     idade: 23
 }
+
+//Aula 4
+
+var nome = "abc";
+var Nome = "abc";
+
+//Aula 5
