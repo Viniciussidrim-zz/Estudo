@@ -22,3 +22,28 @@ var nome = "abc";
 var Nome = "abc";
 
 //Aula 5
+
+//Estruturada
+var n1 = 2;
+var n2 = 4;
+console.log(n1+n2);
+
+//Orientada
+var n1 = 2;
+var n2 = 4;
+
+var SOMA = function (n1, n2){
+    return n1 + n2;
+}
+console.log (SOMA(n1, n2));
+
+//Usando Framework 
+class Calculadora extends Componet {
+    constructor (props){
+        super(props);
+        this.somar = this.somar.bind(this);
+    }
+    somar (n1,n2){
+        return n1 + n2;
+    }
+}
