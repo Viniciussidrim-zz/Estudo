@@ -47,3 +47,6 @@ class Calculadora extends Componet {
         return n1 + n2;
     }
 }
+
+//Aula 6
+//Uso do DOM e JS
