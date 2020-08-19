@@ -5,3 +5,4 @@ function imprimirTexto (textoParaImprimir) {
 }
 
 imprimirTexto (texto);
+//teste
