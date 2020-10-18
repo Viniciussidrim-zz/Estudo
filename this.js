@@ -10,5 +10,5 @@ function Pessoa (nome, sobrenome){
 var funcionario = new Pessoa ("Maria", "Peixoto");
 
 // Acessando um objeto a partir de uma função contrutora
-funcionario.nome;
+funcionario.nome = "Matheus";
 funcionario.falar();
